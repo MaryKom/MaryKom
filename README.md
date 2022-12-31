@@ -1,5 +1,13 @@
-### Hi there 👋
+### <h1 align="center">Всем привет, меня зовут Маша</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Будущий Java-Developer</h3>
 
+- 🌱 На данный момент я учу Java в онлайн-школе Hexlet.
+
+- 📫 Как со мной связаться:
+
+Telegram: @MaryKom
+
+Email: marykomendantova98@gmail.com
 <!--
 **MaryKom/MaryKom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
