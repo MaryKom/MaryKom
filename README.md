@@ -1,7 +1,7 @@
 ### <h1 align="center">Всем привет, меня зовут Маша</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Будущий Java-Developer</h3>
+<h3 align="center">Java-Developer</h3>
 
-- 🌱 На данный момент я учу Java в онлайн-школе Hexlet.
+- 🌱 На данный момент работаю в HeadHunter.
 
 - 📫 Как со мной связаться:
 
